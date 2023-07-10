@@ -50,7 +50,7 @@ nav > ul {
 
 nav li {
     list-style: none;
-    margin-right: 20px;
+    margin-right: 30px;
 }
 
 nav a {
@@ -81,7 +81,7 @@ nav a {
     line-height: 25px;
 }
 .left-images {
-    width: 500px;
+    width: 490px;
 }
 /*hero part end*/
 /*feature part start*/
