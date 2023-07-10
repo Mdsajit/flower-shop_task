@@ -95,4 +95,121 @@ nav a {
     text-align: center;
     margin-bottom: 10px;
 }
+.feature-flower {
+    margin: 40px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.flower-one {
+    border-radius: 300px 300px 0px 0px;
+    background: url(../images/pngwing\ 6.png), rgba(167, 33, 98, 0.15);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 438px;
+    width: 330px;
+    position: relative;
+}
+.flower-two {
+    border-radius: 300px 300px 0px 0px;
+    background: url(../images/pngwing\ 10.png), rgba(5, 151, 160, 0.15);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 438px;
+    width: 330px;
+    position: relative;
+}
+.flower-three {
+    border-radius: 300px 300px 0px 0px;
+    background: url(../images/pngwing\ 7.png), rgba(71, 125, 17, 0.15);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 438px;
+    width: 330px;
+    position: relative;
+}
+.flower-one a {
+    position: absolute;
+    bottom: -35px;
+    left: 30%;
+    color: #181818;
+}
+.flower-two a {
+    position: absolute;
+    bottom: -35px;
+    left: 30%;
+    color: #181818;
+}
+.flower-three a {
+    position: absolute;
+    bottom: -35px;
+    left: 30%;
+    color: #181818;
+}
 /*feature part end*/
+/*icon features start*/
+    .icon-features {
+        margin: 150px 200px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-radius: 5px;
+        background: rgba(39, 39, 39, 0.05);
+    }
+    .icon-one {
+        text-align: center;
+    }
+    .icon-one p{
+        color: #272727;
+        margin: 10px 0;
+    }
+/*icon features end*/
+/*deals part start*/
+ .deals {
+    margin-top: 200px;
+    background: rgba(229, 84, 115, 0.05);
+ }
+ .deals-part {
+    margin: 100px 200px;
+    display: flex;
+    gap: 60px;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .deals-content {
+    text-align: center;
+ }
+ .deals-content h3 {
+    font-weight: 800;
+    font-size: 30px;
+    color: #272727;
+    margin-bottom: 20px;
+ }
+ .deals-content p {
+    margin-bottom: 20px;
+ }
+/*deals part end*/
+
+.instagram {
+    margin: 200px 200px 100px;
+}
+
+.instagram h3 {
+    font-size: 30px;
+    color: #272727;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.instagram-image {
+    margin: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.instagram-image img {
+    width: 225px;
+}
